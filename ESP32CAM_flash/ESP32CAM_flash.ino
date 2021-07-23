@@ -8,7 +8,7 @@
 //hecho de que cuentas con la base programadora.
 
 //Definición de pines
-#define LAMP 4 //Se selecciona 
+#define LAMP 5 //Se selecciona //se cambioó el pin4 por pin5 para hacer un fork
 
 //Inicialización del programa
 void setup() //Estructura principal
